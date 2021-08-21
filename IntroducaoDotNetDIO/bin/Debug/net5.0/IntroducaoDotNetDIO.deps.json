@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IntroducaoDotNetDIO/1.0.0": {
+        "runtime": {
+          "IntroducaoDotNetDIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroducaoDotNetDIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

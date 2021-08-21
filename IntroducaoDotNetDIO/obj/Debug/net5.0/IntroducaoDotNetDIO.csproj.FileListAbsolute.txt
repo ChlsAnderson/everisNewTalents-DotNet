@@ -1,0 +1,16 @@
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\bin\Debug\net5.0\IntroducaoDotNetDIO.exe
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\bin\Debug\net5.0\IntroducaoDotNetDIO.deps.json
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\bin\Debug\net5.0\IntroducaoDotNetDIO.runtimeconfig.json
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\bin\Debug\net5.0\IntroducaoDotNetDIO.runtimeconfig.dev.json
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\bin\Debug\net5.0\IntroducaoDotNetDIO.dll
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\bin\Debug\net5.0\ref\IntroducaoDotNetDIO.dll
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\bin\Debug\net5.0\IntroducaoDotNetDIO.pdb
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\IntroducaoDotNetDIO.csproj.AssemblyReference.cache
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\IntroducaoDotNetDIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\IntroducaoDotNetDIO.AssemblyInfoInputs.cache
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\IntroducaoDotNetDIO.AssemblyInfo.cs
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\IntroducaoDotNetDIO.csproj.CoreCompileInputs.cache
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\IntroducaoDotNetDIO.dll
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\ref\IntroducaoDotNetDIO.dll
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\IntroducaoDotNetDIO.pdb
+E:\SANDISK\Pessoal\Apostilas_e_aplicativos\Projetos\git\Treinamentos\everisNewTalents-DotNet\IntroducaoDotNetDIO\obj\Debug\net5.0\IntroducaoDotNetDIO.genruntimeconfig.cache
