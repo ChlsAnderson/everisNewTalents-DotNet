@@ -35,7 +35,14 @@ namespace Revisao
 
                         break;
                     case "2":
-                        //TODO: listar alunos
+                        foreach(var a in alunos)
+                        {
+                            if(!a.Nome.Equals(""))
+                            {
+                                Console.WriteLine($"ALUNO: {a.Nome} - NOTA: {a.Nota}");
+                            }
+                            
+                        }
                         break;
                     case "3":
                         //TODO: Calcular media geral
