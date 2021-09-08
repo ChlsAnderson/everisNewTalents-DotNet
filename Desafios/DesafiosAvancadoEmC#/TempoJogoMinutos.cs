@@ -37,6 +37,8 @@ class TempoJogoMinutos {
   }
 }
 
+// 22 / 23 Testes passaram. De 23 testes 22 deram certo?
+
 /* 
 
 3 / 3 - Tempo de Jogo com Minutos
