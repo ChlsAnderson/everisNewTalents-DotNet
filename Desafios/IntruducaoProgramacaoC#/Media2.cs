@@ -1,8 +1,7 @@
 using System;
 
-namespace Start
-{
-    class Program {
+namespace Start {
+  class Program {
     static void Main(string[] args) {
       double A, B, C;
       
@@ -13,5 +12,5 @@ namespace Start
       Console.WriteLine("MEDIA = " + String.Format("{0:0.0}", ((A * 2) + (B * 3) + (C * 5)) / (2 + 3 + 5)));
       Console.ReadKey();
     }
-    }
+  }
 }
