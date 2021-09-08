@@ -1,23 +1,18 @@
 using System;
+using System.Numerics;
 
-class Program{
-//complete os espaços em branco com sua solução
-    static void Main(string[] args) { 
-
-        ulong resultado = 0;
-        int qtdTeste = int.Parse(Console.ReadLine());
-        for (                            )
-        {
-            int casas = int.Parse(Console.ReadLine()) - 1;
-            do{
-              
-
-            }while(                      );
-            resultado = resultado/12000;
-            Console.WriteLine($"{resultado} kg");
-            resultado =        ;
-        }
+class TrigoTabuleiro {
+  static void Main(string[] args) { 
+    int n = int.Parse(Console.ReadLine());
+    ulong x;
+    BigInteger totalGrams;
+    
+    for (int i = 0; i < n; ++i) {
+      x = ulong.Parse(Console.ReadLine()); 
+      totalGrams = new BigInteger((Math.Pow(2, x) / (12 * 1000)));
+      Console.WriteLine($"{totalGrams} kg");
     }
+  }
 }
 
 /* 
