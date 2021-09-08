@@ -1,39 +1,29 @@
 using System; 
-using System.Globalization;
 
-class Program {
+class CoordenadasDeUmPonto {
+  static void Main(string[] args) {
+    string[] input = Console.ReadLine().Split();
+    double X = double.Parse(input[0]);
+    double Y = double.Parse(input[1]);
 
-    static void Main(string[] args) { 
-        //complete os espaços em branco com sua solução para o problema
-
-          string[] valores = Console.ReadLine().Split(' ');
-            double x = double.Parse(valores[0], CultureInfo.InvariantCulture);
-            double y = double.Parse(valores[1], CultureInfo.InvariantCulture);
-
-            if (               ) {
-                Console.WriteLine("Origem");
-            }
-            else if (x ==    ) {
-                Console.WriteLine("Eixo Y");
-            }
-            else if (y ==     ) {
-                Console.WriteLine("Eixo X");
-            }
-            else if (x >    && y >     ) {
-                Console.WriteLine(       );
-            }
-            else if (x < 0.0 && y > 0.0) {
-                Console.WriteLine(      );
-            }
-            else if (x < 0.0 && y < 0.0) {
-                Console.WriteLine(      );
-            }
-            else {
-                Console.WriteLine("     ");
-            }
-
+    if (X == 0 && Y == 0) {
+      Console.WriteLine("Origem");
+    } else if (X == 0 && Y != 0) {
+      Console.WriteLine("Eixo Y");
+    } else if (X != 0 && Y == 0) {
+      Console.WriteLine("Eixo X");
+    } else if (X > 0 && Y > 0) {
+      Console.WriteLine("Q1");
+    } else if (X < 0 && Y > 0) {
+      Console.WriteLine("Q2");
+    } else if (X < 0 && Y < 0) {
+      Console.WriteLine("Q3");
+    } else if (X > 0 && Y < 0) {
+      Console.WriteLine("Q4");
+    } else {
+      throw new ArgumentOutOfRangeException();
     }
-
+  }
 }
 
 /* 
