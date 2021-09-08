@@ -1,26 +1,23 @@
 using System; 
 
-class {
-
-        public static void Main()
-        {
-            double a, b = 0, avg;
-            int i, postive = 0;
-            for (                             )
-            {
-                
-                if (        )
-                {
-                   
-                }
-            }
-            avg = b / postive;
-            Console.WriteLine("{0} valores positivos", postive);
-            Console.WriteLine("{0}", avg.ToString("0.0"));
-
-            Console.ReadLine();
-        }
-
+class PositivoMedias {
+  public static void Main() {
+    double a, b = 0.0, avg;
+    int  positivo = 0;
+    
+    for (int i = 0; i < 6; i++) {
+      a = double.Parse(Console.ReadLine());
+      
+      if (a > 0.0) {
+        positivo += 1;
+        b += a;
+      }
+    }
+    
+    avg = (b / positivo);
+    Console.WriteLine("{0} valores positivos", positivo);
+    Console.WriteLine("{0}", Math.Round(avg, 1));
+  }
 }
 
 /* 
